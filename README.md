@@ -1,7 +1,7 @@
 <H3>NAME: Aldrin Lijo JE  </H3>
 <H3>REGISTER NO: 212222240007 </H3>
 <H3>EX. NO.4 </H3>
-<H3>DATE: 07.10.2024 </H3>
+<H3>DATE: 19.8.2024 </H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim: 
